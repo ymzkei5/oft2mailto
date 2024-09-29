@@ -7,7 +7,7 @@ Converter for Outlook (classic) user template files (*.oft) to 'mailto:' links
 * By converting template files to "mailto:" links, users can create emails with just a click.
 
 ## How to Use
-* Download the oft2mailto-verX_XX.zip file from the dist/ directory to your local machine.
+* Download [the oft2mailto-verX_XX.zip file from the dist/ directory](./dist/oft2mailto-ver0_01.zip) to your local machine.
 * Extract the ZIP file (running directly from the compressed folder may cause failure).
 * Run oft2mailto.exe.
 * If the conversion is successful, the result will be output to result.html.

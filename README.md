@@ -7,7 +7,7 @@ Converter for Outlook (classic) user template files (*.oft) to 'mailto:' links
 * テンプレートファイルを "mailto:" リンクに変換することで、クリックでメール作成ができるようにします。
 
 ## 使い方
-* dist/ の oft2mailto-verX_XX.zip ファイルをローカルにダウンロードします。
+* [dist/ の oft2mailto-verX_XX.zip ファイル](./dist/oft2mailto-ver0_01.zip)をローカルにダウンロードします。
 * ZIPファイルを展開します。（圧縮フォルダから直接実行すると失敗します。）
 * oft2mailto.exe を実行します。
 * コンバートに成功した場合、result.html に結果が出力されます。
